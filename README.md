@@ -90,10 +90,10 @@
 </p>
 
 <br/>
-<hr/>
+<!-- <hr/> -->
 <br/>
 
-
+## Dashboard
 <p align="center">
   <a href="https://github.com/retiarylime">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=retiarylime&theme=radical&border=7F3FBF&background=0D1117" alt="retiarylime's GitHub streak"/>
@@ -117,6 +117,9 @@
 </p>
 
 ![retiarylime's Graph](https://github-readme-activity-graph.vercel.app/graph?username=retiarylime&custom_title=retiarylime%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<br/>
+<br/>
 
 ## Contributions
 <p align="center">
