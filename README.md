@@ -18,7 +18,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; It's me
                 <b><a target="_blank" href="https://github.com/retiarylime">retiarylime</a></b>
         </samp>
 </h3>
