@@ -29,8 +29,6 @@
 
 <p align="center">
   <samp>
-    <a href="https://www.google.com/search?q=retiarylime">「 Google Me 」</a>
-    <br>
     「 I am a passionate developer who loves creating innovative solutions 」
     <br>
     <br>
@@ -62,9 +60,10 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
- ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love writing code and learning new technologies<br/><br/>
- 📧 &emsp; Reach me anytime: retiarylime101@gmail.com<br/><br/>
+ ✌️ &emsp; Loves AI vibe coding as a hobby <br/><br/>
+ 🐧 &emsp; A Linux enthusiast<br/><br/>
+ 🎓 &emsp; Bachelor of Medicine and Bachelor of Surgery (MBBS) holder<br/><br/>
+ 📧 &emsp; Text me anytime: retiarylime101@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/retiarylime/retiarylime/issues)
 
 </p>
