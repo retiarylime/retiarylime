@@ -12,7 +12,7 @@
 
  -->
 
-![Header](.assets/your-header-image-name.png)
+![Header](assets/github-header-banner.png)
 
 <a href="https://komarev.com/ghpvc/?username=retiarylime">
   <img align="right" src="https://komarev.com/ghpvc/?username=retiarylime&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
