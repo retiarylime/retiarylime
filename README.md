@@ -15,8 +15,8 @@
 ![Header](assets/github-header-banner.png)
 
 <a href="https://komarev.com/ghpvc/?username=retiarylime">
-  <img align="right" src="https://komarev.com/ghpvc/?username=retiarylime&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+  <img align="right" src="https://komarev.com/ghpvc/?username=retiarylime&label=Visitors&color=553beb&style=flat" alt="Profile visitor" />
+</a></br>
 
 
 <!-- [![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_ID) -->
