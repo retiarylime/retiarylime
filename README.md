@@ -12,6 +12,8 @@
 
  -->
 
+![Header](.assets/your-header-image-name.png)
+
 <a href="https://komarev.com/ghpvc/?username=retiarylime">
   <img align="right" src="https://komarev.com/ghpvc/?username=retiarylime&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
@@ -98,6 +100,10 @@
   <a href="https://github.com/retiarylime?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=retiarylime&color=553beb" alt="Profile views" />
+</p>
+
 <br/>
 <hr/>
 <br/>
@@ -120,5 +126,8 @@
   <br/>
 </a>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=retiarylime&theme=darkhub&title=-Reviews&row=1" alt="GitHub Trophies" />
+</p>
 
 ![retiarylime's Graph](https://github-readme-activity-graph.vercel.app/graph?username=retiarylime&custom_title=retiarylime%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
