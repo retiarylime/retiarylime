@@ -116,3 +116,7 @@
 </p>
 
 ![retiarylime's Graph](https://github-readme-activity-graph.vercel.app/graph?username=retiarylime&custom_title=retiarylime%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+## 📊 GitHub Metrics
+
+![Full Year Calendar](metrics.plugin.isocalendar.fullyear.svg)
