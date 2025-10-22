@@ -57,16 +57,16 @@
 <!-- About Section -->
  # About me
 
-<p>
+<div>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
- ✌️ &emsp; Loves AI vibe coding as a hobby <br/><br/>
+ ✌️ &emsp; Loves AI vibe coding as a hobby<br/><br/>
  🐧 &emsp; A Linux enthusiast<br/><br/>
  🎓 &emsp; Bachelor of Medicine and Bachelor of Surgery (MBBS) holder<br/><br/>
  📧 &emsp; Text me anytime: retiarylime101@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/retiarylime/retiarylime/issues)
 
-</p>
+</div>
 
 <br/>
 <br/>
