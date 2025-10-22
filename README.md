@@ -29,7 +29,7 @@
 
 <p align="center">
   <samp>
-    「 I am a passionate developer who loves creating innovative solutions 」
+    「 90% AI, 10% pretending I knew it all along. 」
     <br>
     <br>
   </samp>
