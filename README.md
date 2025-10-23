@@ -126,6 +126,11 @@
 <hr/>
 <br/>
 
+<h1 align="center">
+        <samp> Contributions
+        </samp>
+</h1>
+
 <p align="center">
   <img src="metrics.plugin.isocalendar.halfyear.svg" alt="Half Year Calendar" />
 </p>
